@@ -2,7 +2,7 @@
   "name": "grunt-imweb-abs",
   "description": "imweb:添加cdn路径",
   "version": "0.1.0",
-  "homepage": "https://github.com/casperchen/grunt-imweb-abs",
+  "homepage": "https://github.com/chyingp/grunt-imweb-abs",
   "author": {
     "name": "chyingp",
     "email": "chyingp@gmail.com",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/casperchen/grunt-imweb-abs.git"
+    "url": "git://github.com/chyingp/grunt-imweb-abs.git"
   },
   "bugs": {
-    "url": "https://github.com/casperchen/grunt-imweb-abs/issues"
+    "url": "https://github.com/chyingp/grunt-imweb-abs/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/casperchen/grunt-imweb-abs/blob/master/LICENSE-MIT"
+      "url": "https://github.com/chyingp/grunt-imweb-abs/blob/master/LICENSE-MIT"
     }
   ],
   "main": "Gruntfile.js",
